@@ -5,7 +5,9 @@ Team-opdrachten. Opdracht 7.3: jullie eigen spel (60 min). Maak een repository a
 Opdracht 7.4: ontwerp (60 min). Maak in https://www.draw.io/ een UML class diagram met de belangrijkste classes van de implementatie van jullie spel. Denk aan bijvoorbeeld classes Game, Location, Command, Player, enz. Welke eigenschappen (properties) en functies (methods) kun je op voorhand al bedenken voor deze classes?
 
 Opdracht 7.5: TDD (90 min). TDD staat voor test-driven development. Hierbij ontwikkel je eerst de test, dan de eenvoudige code, dan verbeterde code (refactoring). Onderstaand figuur toont dit schematisch met stoplichtkleuren (dit wordt vaak aangeduid met Red-Green-Refactor ): afbeelding. Verdeel de classes uit de vorige opdracht onder de teamleden. Bedenk één-voor-één unittests voor de methods uit de vorige opdracht en implementeer steeds de bijbehorende functionaliteit. Implementeer elke class in zijn eigen Python bestand (dus bijvoorbeeld class Game in bestand game.py ). Denk aan de Python test extensie voor Visual Studio Code. Het zal blijken dat je soms classes van een ander nodig hebt om je eigen class te testen. Stem onderling af welke methods eerst getest en geïmplementeerd moeten worden. Gebruik hiervoor het Scrum-board van github. Deel bestanden steeds tussentijds via github.
+
 Opdracht 7.6: integratie (60 min). Push alle geïmplementeerde classes en tests naar github. Zorg dat iedereen de actuele en complete broncode op zijn laptop heeft. Schrijf samen tests om te controleren of de samenwerking tussen de bestanden goed loopt. Markeer het eindresultaat op github als release v0.1
+
 Opdracht 7.7: feedback (90 min). Kijk op de repositories van de andere teams en kijk hoe je hen kunt helpen met de dingen die je in de voorgaande opdrachten hebt geleerd. Post tips en suggesties als issue bij de betreffende repository op github. Hanteer de volgende richtlijnen:
 1. formuleer je issue constructief (het doel is elkaar te helpen verbeteren)
 2. geef duidelijk aan wat je nu hebt gezien in de repository
@@ -29,5 +31,6 @@ groep?
 ● restpunten: wat had je graag nog willen doen, maar is niet gelukt?
 ● demo: korte walkthrough van de code en de tests
 De presentatie mag maximaal 15 minuten duren.
+
 Opdracht 7.9: overige functies (optioneel). Als opdracht 7.5, maar nu met de Could (en eventeel Won't) functies van opdracht 7.3 voor zover de tijd dat toestaat. Markeer het eindresultaat op github als release v0.3
 
